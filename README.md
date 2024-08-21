@@ -1,56 +1,40 @@
-<<<<<<< HEAD
-# Keyword Linker
+Keyword Linker
 
-Keyword Linker הוא תוסף וורדפרס חכם ליצירת קישורים אוטומטיים למילות מפתח בתוכן האתר שלך.
+Automatically link keywords in your WordPress content to top Google search results.
 
-## תיאור
+Features:
 
-תוסף זה סורק את התוכן של הפוסטים והעמודים שלך, מזהה מילות מפתח, ומוסיף קישורים אוטומטיים לתוצאות החיפוש הראשונות של Google עבור אותן מילות מפתח. התוסף מתחשב בדירוג הפוסט ומעדכן רק פוסטים שהדירוג שלהם נמוך מסף מסוים.
+🔗 Auto-link Keywords: Seamlessly link keywords to the most relevant Google search results.
+🎚️ Customizable Linking: Control the maximum number of links per post to suit your content strategy.
+📊 Rank-Aware Updates: Consider the ranking of posts before applying updates to ensure SEO integrity.
+🖥️ User-Friendly Interface: Manage and configure easily through an intuitive interface.
+🌐 Multi-Language Support: Compatible with multiple languages for global reach.
+Quick Start:
 
-## התקנה
+Upload the keyword-linker folder to /wp-content/plugins/.
+Activate the plugin through the 'Plugins' screen in WordPress.
+Configure the plugin under Settings > Keyword Linker.
+Configuration:
 
-1. העלה את תיקיית `keyword-linker` לתיקיית `/wp-content/plugins/` של האתר שלך.
-2. הפעל את התוסף דרך מסך 'תוספים' בוורדפרס.
-3. עבור להגדרות > Keyword Linker כדי להגדיר את התוסף.
+Setting	Description
+Google API Key	Your Google Custom Search API key.
+Search Engine ID	Your custom search engine ID.
+Minimum Rank for Update	The lowest rank at which a post will be updated.
+Maximum Keywords Per Post	The limit of linked keywords per post.
+Requirements:
 
-## הגדרות
+WordPress 5.0+
+PHP 7.2+
+Google Custom Search API key
+Google Custom Search Engine ID
+Support:
 
-- **מפתח API של Google**: הזן את מפתח ה-API שלך ל-Google Custom Search.
-- **מזהה מנוע החיפוש**: הזן את מזהה מנוע החיפוש המותאם אישית שלך.
-- **דירוג מינימלי לעדכון**: הגדר את הדירוג המינימלי שמתחתיו פוסטים יעודכנו.
-- **מספר מקסימלי של מילות מפתח**: הגדר את המספר המקסימלי של מילות מפתח לקישור בכל פוסט.
+Have issues or questions? Open an issue or email us at info@bdnhost.net.
 
-## שימוש
+License:
 
-לאחר ההגדרה, התוסף יפעל אוטומטית. הוא יסרוק את הפוסטים שלך ויוסיף קישורים למילות מפתח בהתאם להגדרות שקבעת.
+GPL v2 or later. See LICENSE for details.
 
-## תכונות
-
-- קישור אוטומטי של מילות מפתח לתוצאות חיפוש רלוונטיות
-- שליטה על מספר הקישורים המקסימלי לכל פוסט
-- התחשבות בדירוג הפוסט לפני עדכון
-- ממשק ניהול ידידותי למשתמש
-- תמיכה בשפות שונות
-
-## דרישות
-
-- WordPress 5.0 או גרסה מתקדמת יותר
-- PHP 7.2 או גרסה מתקדמת יותר
-- מפתח API של Google Custom Search
-- מזהה מנוע חיפוש מותאם אישית של Google
-
-## תמיכה
-
-אם אתה נתקל בבעיות או יש לך שאלות, אנא צור קשר בכתובת support@example.com.
-
-## תורמים
-
-תודה לכל התורמים שעזרו לשפר את התוסף הזה.
-
-## רישיון
-
-תוסף זה מופץ תחת רישיון GPL v2 או
-=======
-# keyword-linker
-mart WordPress plugin for automatic keyword linking in site content using Google Custom Search API.
->>>>>>> a2a701f44edd64a511c355507e71081b6480a389
+Developed by BDNHOST
+Leading Cloud Services & Advanced Technologies
+🌐 bdnhost.net | 📧 info@bdnhost.net
