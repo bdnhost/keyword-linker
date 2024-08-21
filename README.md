@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Keyword Linker
 
 Keyword Linker הוא תוסף וורדפרס חכם ליצירת קישורים אוטומטיים למילות מפתח בתוכן האתר שלך.
@@ -49,3 +50,7 @@ Keyword Linker הוא תוסף וורדפרס חכם ליצירת קישורים
 ## רישיון
 
 תוסף זה מופץ תחת רישיון GPL v2 או
+=======
+# keyword-linker
+mart WordPress plugin for automatic keyword linking in site content using Google Custom Search API.
+>>>>>>> a2a701f44edd64a511c355507e71081b6480a389
