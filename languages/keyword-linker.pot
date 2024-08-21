@@ -1,0 +1,71 @@
+# Copyright (C) 2023 שמך
+# This file is distributed under the same license as the Keyword Linker plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Keyword Linker 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/keyword-linker\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-08-21T12:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: keyword-linker\n"
+
+#. Plugin Name of the plugin
+msgid "Keyword Linker"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://example.com/keyword-linker"
+msgstr ""
+
+#. Description of the plugin
+msgid "תוסף חכם ליצירת קישורים אוטומטיים למילות מפתח בתוכן האתר"
+msgstr ""
+
+#. Author of the plugin
+msgid "שמך"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://example.com"
+msgstr ""
+
+#: admin/class-keyword-linker-admin.php:50
+msgid "Keyword Linker Settings"
+msgstr ""
+
+#: admin/partials/keyword-linker-admin-display.php:22
+msgid "Google API Key"
+msgstr ""
+
+#: admin/partials/keyword-linker-admin-display.php:27
+msgid "Search Engine ID"
+msgstr ""
+
+#: admin/partials/keyword-linker-admin-display.php:32
+msgid "Minimum Rank to Update"
+msgstr ""
+
+#: admin/partials/keyword-linker-admin-display.php:37
+msgid "Maximum Number of Keywords"
+msgstr ""
+
+#: admin/partials/keyword-linker-admin-display.php:43
+msgid "Save Settings"
+msgstr ""
+
+#: admin/partials/keyword-linker-admin-display.php:45
+msgid "Check API Settings"
+msgstr ""
+
+#: public/class-keyword-linker-public.php:57
+msgid "External Link"
+msgstr ""
+
+#: public/class-keyword-linker-public.php:58
+msgid "Sponsored Link"
+msgstr ""

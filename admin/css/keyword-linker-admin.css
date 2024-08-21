@@ -1,0 +1,41 @@
+ 
+.keyword-linker-admin-wrapper {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.keyword-linker-admin-wrapper h1 {
+    color: #23282d;
+    font-size: 23px;
+    font-weight: 400;
+    margin: 0 0 15px;
+    padding: 9px 0 4px;
+    line-height: 29px;
+}
+
+.keyword-linker-admin-wrapper form {
+    margin-top: 20px;
+}
+
+.keyword-linker-admin-wrapper label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.keyword-linker-admin-wrapper input[type="text"],
+.keyword-linker-admin-wrapper input[type="number"] {
+    width: 100%;
+    max-width: 400px;
+}
+
+.keyword-linker-admin-wrapper .submit {
+    margin-top: 20px;
+}
+
+#check-google-api {
+    margin-top: 10px;
+}

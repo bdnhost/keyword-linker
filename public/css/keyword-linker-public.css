@@ -1,0 +1,10 @@
+a[data-keyword-link] {
+    color: #0066cc;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+a[data-keyword-link]:hover {
+    color: #004080;
+    text-decoration: none;
+}
